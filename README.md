@@ -1,4 +1,4 @@
-# Graph Algorithms: Dijkstra, Prim's MST, Topological Sort
+# Graph Algorithms in C++: Dijkstra, Prim's MST, Topological Sort
 
 This repository contains the template based implementation of three fundamental graph algorithms in C++:
 
